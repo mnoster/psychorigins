@@ -1,0 +1,38 @@
+
+body{
+    /*background: url("images/bluebrain.png"); center center fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin:0;
+    padding:0;*/
+}
+#logo{
+    /*background:url("images/logo.png");
+    background-repeat: no-repeat;*/
+    opacity: .75;
+    height: 30vh;
+    background-color: white;
+
+}
+#searchbar{
+    margin-top:120px;
+}
+#info1{
+    margin: 40px 0 0 32px ;
+
+}
+.footer{
+    bottom:0;
+    height:5vh;
+    position:absolute;
+    width:100%;
+    background-color: #d6d6d6
+}
+#footcontent{
+    text-align: center;
+    padding:10px 0 0 0;
+    color:black;
+}
